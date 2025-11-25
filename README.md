@@ -26,11 +26,14 @@ Depuis **start.spring.io** :
 - Lombok  
 
 ### ✔️ Configuration `application.properties`
-```properties
+ properties
 spring.datasource.url=jdbc:mysql://localhost:3306/demo_db?createDatabaseIfNotExist=true
 spring.datasource.username=root
 spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
 server.port=8080
+-------------
+<img width="1056" height="791" alt="image" src="https://github.com/user-attachments/assets/71b41972-60ea-45d9-a8ee-2af54adbfeaf" />
+
 
 
